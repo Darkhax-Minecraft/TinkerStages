@@ -1,4 +1,4 @@
-# Dimension Stages [![](http://cf.way2muchnoise.eu/275343.svg)](https://minecraft.curseforge.com/projects/tinkerstages) [![](http://cf.way2muchnoise.eu/versions/275343.svg)](https://minecraft.curseforge.com/projects/tinkerstages)
+# Tinker Stages [![](http://cf.way2muchnoise.eu/275343.svg)](https://minecraft.curseforge.com/projects/tinkerstages) [![](http://cf.way2muchnoise.eu/versions/275343.svg)](https://minecraft.curseforge.com/projects/tinkerstages)
 
 This mod hooks in to the GameStage API, and allows various aspects of [Tinkers Construct](https://minecraft.curseforge.com/projects/tinkers-construct) to be put into progression stages.
 
